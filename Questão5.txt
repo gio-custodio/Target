@@ -1,0 +1,13 @@
+Para descobrir qual interruptor controla qual lâmpada usando apenas duas idas a uma das salas das lâmpadas, podemos seguir estes passos:
+
+Primeira etapa (na sala dos interruptores):
+
+Ligue o primeiro interruptor e o deixe ligado por alguns minutos. Esse tempo permite que a lâmpada conectada a ele aqueça.
+Após alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor. Deixe o terceiro interruptor desligado.
+Primeira ida à sala das lâmpadas:
+
+Entre na sala das lâmpadas.
+A lâmpada que está acesa corresponde ao segundo interruptor (aquele que foi ligado por último).
+A lâmpada que está apagada, mas quente, corresponde ao primeiro interruptor (aquele que foi ligado e depois desligado).
+A lâmpada que está apagada e fria corresponde ao terceiro interruptor (aquele que nunca foi ligado).
+Com essa estratégia, você identifica qual interruptor controla cada lâmpada com apenas uma ida à sala das lâmpadas, pois a combinação de lâmpada acesa, apagada quente e apagada fria é suficiente para diferenciar os interruptores.

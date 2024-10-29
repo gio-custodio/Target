@@ -1,0 +1,35 @@
+a) 1, 3, 5, 7, ___
+Essa é uma sequência de números ímpares consecutivos. O próximo número após 7 será 9.
+
+Resposta: 9
+
+b) 2, 4, 8, 16, 32, 64, ____
+Essa sequência multiplica cada número por 2 para obter o próximo: 
+2,4,8,16,32,64,128.
+
+Resposta: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Aqui temos uma sequência dos quadrados perfeitos: 
+é a sequencia 1,2,3,4,5,6 todas multiplicadas ao quadrado então na sequência 7x7 = 49
+
+Resposta: 49
+
+
+d) 4, 16, 36, 64, ____
+Essa sequência também representa quadrados perfeitos, mas apenas dos números pares:
+o proximo será 10, então 10x10=100
+
+
+e) 1, 1, 2, 3, 5, 8, ____
+Esta é a sequência de Fibonacci, onde cada termo é a soma dos dois anteriores. Assim, o próximo termo será 
+5+8=13.
+
+Resposta: 13
+
+
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Essa sequência segue um padrão de números que começam com "1" e "2" e incluem números consecutivos a partir de 16. Depois de 19, o próximo número lógico é 20.
+
+Resposta: 20
